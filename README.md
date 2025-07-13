@@ -1,4 +1,4 @@
-# Kebijakan-Privasi---Smart-Village
+# Kebijakan Privasi - Smart Village
 **Terakhir diperbarui: 9 Juli 2025**
 
 Aplikasi **Smart Village** dikembangkan oleh **Pemerintah Kabupaten Sampang** sebagai layanan publik digital untuk mendukung keterbukaan informasi, pelayanan masyarakat, dan pengelolaan data desa secara digital.
