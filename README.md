@@ -32,5 +32,4 @@ Kebijakan ini dapat diperbarui sewaktu-waktu. Kami akan memberi tahu pengguna me
 ### 7. Kontak Kami
 Jika Anda memiliki pertanyaan atau permintaan terkait kebijakan privasi ini, silakan hubungi kami di:
 
-**Email:** [dpmd@sampangkab.go.id](mailto:dpmd@sampangkab.go.id)  
 **Website:** [mysmartvillage.id](https://mysmartvillage.id)
